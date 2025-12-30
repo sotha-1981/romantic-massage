@@ -38,7 +38,7 @@
     color: #c9a14a;
 }
 .hero{
-    background: url('../images/hero.png') center/cover no-repeat;
+    background: url('images/hero.png') center/cover no-repeat;
     height: 80vh;
     display: flex;
     align-items: center;
